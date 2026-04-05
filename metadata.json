@@ -1,0 +1,7 @@
+{
+  "name": "Nomad's Compass",
+  "description": "A premium travel planning platform for Europe and South East Asia, curated by experts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
